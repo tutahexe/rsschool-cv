@@ -3,7 +3,7 @@
 - Senior QA Automation
 - Skype: tutahexe
 - Residence location: Odessa, Ukraine
-- LinkedIn: [https://www.linkedin.com/in/mikhail-dovgiy/]
+- LinkedIn: [https://www.linkedin.com/in/mikhail-dovgiy/](https://www.linkedin.com/in/mikhail-dovgiy/)
 
 # SUMMARY:
 
