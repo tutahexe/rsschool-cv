@@ -132,3 +132,14 @@ Test automation framework::
 
 - Organizing, conducting and supporting test processes and documentation.
 - Root cause analysis.
+
+# LANGUAGES:
+
+Ukrainian, Russian – native speaker.
+English – upper intermediate.
+
+# EDUCATION:
+
+Master’s Diploma, 2013
+Odessa National Polytechnic University, Odessa, Ukraine
+Computer science
