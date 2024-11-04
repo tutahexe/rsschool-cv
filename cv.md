@@ -135,11 +135,11 @@ Test automation framework::
 
 # LANGUAGES:
 
-Ukrainian, Russian – native speaker.
+Ukrainian, Russian – native speaker. \
 English – upper intermediate.
 
 # EDUCATION:
 
-Master’s Diploma, 2013
-Odessa National Polytechnic University, Odessa, Ukraine
+Master’s Diploma, 2013 \
+Odessa National Polytechnic University, Odessa, Ukraine \
 Computer science
